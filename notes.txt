@@ -1,0 +1,20 @@
+Problem Defination:I need to create a Website that will 
+show case my professional skills and projects undertaken.
+It should have multiple sections and professional styling.
+The Website should be able to communicate effectively to
+potenetial employers, fellow developers etc.
+
+
+Design 
+
+Header; Aspring Software developer
+
+About me: 
+Tony Kainga is an aspiring software developer currently
+ building his foundation in programming and web development. 
+ He is actively learning tools such as 
+ Git and modern web technologies, 
+ with a strong interest in creating practical, real-world digital 
+ solutions. Tony is committed to continuous growth and developing
+his 
+skills through hands-on projects.
