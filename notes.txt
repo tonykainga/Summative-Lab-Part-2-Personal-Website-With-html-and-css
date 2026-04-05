@@ -89,3 +89,5 @@ Key Contributions:
 Identified opportunities for digital transformation in client businesses
 Positioned AI-driven solutions as value-adding tools
 Educated clients on benefits of adopting modern technologies
+
+CSS Styling 
