@@ -31,7 +31,7 @@ He is committed to continuous growth and hands-on learning as he evolves into a 
 Section 2
 
 Projects done :
-Custom Software Solutions-
+1.Custom Software Solutions-
 Role: Business Development
 
 Overview:
@@ -48,3 +48,15 @@ Contributed to proposal development and closing deals
 Skills Applied:
 Client engagement, solution selling, negotiation, market positioning
 
+2. Mobile App Development Projects
+Role: Sales & Product Evangelism
+
+Overview:
+Played a key role in promoting mobile application solutions to clients and stakeholders.
+
+Key Contributions:
+
+Presented app solutions to potential clients and partners
+Communicated product value and use cases clearly
+Gathered client feedback to inform product improvements
+Supported go-to-market strategies
