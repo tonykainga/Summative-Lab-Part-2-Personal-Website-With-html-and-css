@@ -8,13 +8,24 @@ potenetial employers, fellow developers etc.
 Design 
 
 Header; Aspring Software developer
-
+Section 1
 About me: 
-Tony Kainga is an aspiring software developer currently
- building his foundation in programming and web development. 
- He is actively learning tools such as 
- Git and modern web technologies, 
- with a strong interest in creating practical, real-world digital 
- solutions. Tony is committed to continuous growth and developing
-his 
-skills through hands-on projects.
+Tony Kainga is an aspiring software developer transitioning from
+a background in sales and business development within the
+technology sector. Through his experience in driving adoption of
+digital products, he developed a strong understanding of how 
+software solves real-world business problems—sparking his 
+interest in building those solutions himself.
+He is currently building his foundation in programming and 
+web development, actively learning tools such as Git and 
+modern web technologies. By combining his business insight with
+technical skills, Tony brings a unique perspective to software
+development, focused on creating practical, user-centered 
+solutions.
+
+He is committed to continuous growth and hands-on learning as he evolves into a well-rounded developer.
+
+Section 2
+
+Projects done :
+
