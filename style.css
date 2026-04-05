@@ -16,3 +16,10 @@ section{
 P{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+img{
+    max-width: 100%;
+    height: auto;
+}
+
+
+    
