@@ -7,6 +7,9 @@ potenetial employers, fellow developers etc.
 
 Design 
 
+Navigation Brs at th top: 
+This should include About, Projects Done, Contact-email, website,
+
 Header; Aspring Software developer
 Section 1
 About me: 
