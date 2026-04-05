@@ -10,7 +10,7 @@ header{
     font-size: x-large;
 }
 section{
-    border: 1px solid;
+    border:1px solid #e0e0e0;
     background-color:darkgrey
 }
 P{
