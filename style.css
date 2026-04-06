@@ -20,4 +20,11 @@ h2{
     font-family: Arial, Helvetica, sans-serif;
 }
 
+section img {
+  width: 300px;
+  height: 200px;
+  object-fit: cover; /* prevents distortion */
+  border-radius: 8px; /* optional: makes it look nicer */
+}
+
     
