@@ -2,25 +2,27 @@ nav{
     padding: 15px;
     text-align: right;
     word-spacing: 16px;
-    background-color:darkgrey
+    background-color:darkgrey;
     }
 
 header{
     text-align: center;
-    font-weight: bold;
-    font-size:xx-large
+    font-weight: bold;;
+    font-size:xx-large;
+    color: #0D193F;
 }
 section{
     border:1px solid #e0e0e0;
-    background-color:darkgrey
+    background-color:darkgrey;
 }
 P{
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family:var(--uicore-typography--p-f, "Inter");
 }
 h2{
-    font-family: Arial, Helvetica, sans-serif;
-    font-style:unset
-}
+    font-family:Arial, Helvetica, sans-serif
+    font-style:unset;
+    color:red;
+    }
 
 section img {
   width: 300px;
