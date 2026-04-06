@@ -95,3 +95,5 @@ CSS Styling
 check fonts stlying, background colours
 
 We need to add header and footer
+
+connect nav buttons to sepicifc sections
